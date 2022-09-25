@@ -26,4 +26,4 @@ https://www.youtube.com/channel/UChxzv81TjJXYXhmO3-ANCRg/videos
 
 Here is the code:
 
-https://hamzataha69.github.io/Ubey-Bouncy-/
+https://github.com/HamzaTaha69/Ubey-Bouncy-

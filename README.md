@@ -21,3 +21,9 @@ https://www.youtube.com/channel/UChxzv81TjJXYXhmO3-ANCRg/videos
 ## Screenshots
 
 ![GamePlay](https://raw.githubusercontent.com/HamzaTaha69/Ubey-Bouncy-/main/screenshots/gameplay.png)
+
+## Game Download
+
+Here is the code:
+
+https://hamzataha69.github.io/Ubey-Bouncy-/
